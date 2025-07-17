@@ -1,0 +1,33 @@
+nav ul li{
+    list-style: none;
+    margin-right:100px;
+
+}
+ul li a{
+    text-decoration: none;
+}
+
+nav ul{
+    display:flex;
+    justify-content: space-between;
+}
+.list-item{
+     color:#4E47FF;
+    width:1450px;
+    font-size: 15px;
+    font-weight: bold;
+    
+
+}
+.list-item2{
+    color:#FFFFFF;
+    background-color:#4E47FF;
+     font-size: 45%;
+     height: 15px;
+     width:40px;
+      border-radius: 2px;
+      padding:0 auto;
+     border:none;
+
+    
+}
