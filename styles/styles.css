@@ -34,17 +34,38 @@ nav ul{
     color:#FFFFFF;
     background-color:#4E47FF;
      font-size: 8px;
-     height: 17px;
-     width:75px;
+     height: 20px;
+     width:90px;
      border-radius: 4px;
       padding:3px 8px;
       ;
-     
      border:none;  
 
 }
 
 .banner{
-    margin :60px;
+    margin :90px;
     text-align: center;  
+}
+.head-item{
+    background-image:url('../images/Hero-bg.png');
+    background-repeat: none;
+    height: 300px;
+   
+}
+div h3{
+    color:#252432;
+    margin-bottom:5px;
+   
+}
+div p{
+ color:#252432;
+ font-size: 12px;
+ width:200px;
+}
+.container{
+display:flex;
+justify-content: space-between;
+align-items: center;
+margin-top:130px;
 }
